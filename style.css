@@ -1,1 +1,39 @@
+body {
+    background-color: #9932CC;
+}
+h1 {
+    color: white;
+    padding: 60px;
+}
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #000000;
+      }
+      
+      li {
+        float: right;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color: #1f1c1c;
+      }
+      main {
+  padding: 20px;
+}
+
+      footer {
+        background-color: #000000;
+        color: white 
+      }
 
